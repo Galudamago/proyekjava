@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mandiri DDL.iml" filepath="$PROJECT_DIR$/.idea/Mandiri DDL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Toko/Toko.iml" filepath="$PROJECT_DIR$/Toko/Toko.iml" />
+    </modules>
+  </component>
+</project>
